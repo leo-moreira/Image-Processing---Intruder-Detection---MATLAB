@@ -1,7 +1,7 @@
 # Image Processing - Intruder Detection - MATLAB
 
 > Small repository for Image Processing
-> Coded on first week at Fontys University
+> Coded on second week at Fontys University
 
 Contents
 --------
